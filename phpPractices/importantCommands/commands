@@ -1,0 +1,10 @@
+composer create-project laravel/laravel new --> creating  a laravel project
+model
+view
+controller 
+php artisan make:controller HomeController --creating a controller
+php artisan make:controller MainController --- creating a controller
+php artisan make:controller PostController --- creating a controller
+
+php artisan make:migration create_likes_table ---creating tables for database in the migration folder
+
